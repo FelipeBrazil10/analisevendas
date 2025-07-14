@@ -20,7 +20,3 @@ Consultas Realizadas:
 - Cliente que mais gastou.
 - Produto mais vendido.
 - Média de gasto por cliente.
-
-Contribuição:
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
